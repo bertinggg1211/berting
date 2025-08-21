@@ -56,14 +56,14 @@
 const messages = [
     "SURE NA BAYAN!?",
     "AYUSIN MO DESISYON MO?",
-    "Are you positive?",
-    "LOVE please...",
-    "MISS NA KITA!",
+    "LUHH ANG ANO MO",
+    "DALI NAAA!!",
+    "DALIII",
     "DALI NA!!!...",
     "MALULUNGKOT AKO TAMO!...",
     "PLSSSS PLSSSS",
-    "EDI DAW!!...",
-    "JOKE DALI NA!!!!! LOVE!!!!! ❤️"
+    "EDI WAG!!...",
+    "JOKE DALI NA!!!!"
 ];
 
 let messageIndex = 0;
