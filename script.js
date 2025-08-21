@@ -63,7 +63,7 @@ const messages = [
     "MALULUNGKOT AKO TAMO!...",
     "PLSSSS PLSSSS",
     "EDI WAG!!...",
-    "JOKE DALI NA!!!!"
+    "JOKE DALI NA!!!!",
 ];
 
 let messageIndex = 0;
